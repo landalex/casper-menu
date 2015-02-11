@@ -2,7 +2,7 @@
 
 A variation of a variation the default theme for [Ghost](http://github.com/tryghost/ghost/). To download the original Casper release, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
-To download the latest original Casper Menu release, visit the [releases](https://github.com/jbfriedrich/casper-menu/releases) page.
+To download the latest original Casper Menu release (by [jbfriedrich](https://github.com/jbfriedrich), visit the [releases](https://github.com/jbfriedrich/casper-menu/releases) page.
 
 My variation has customized CSS for the title font/color, as well as a modified footer with social icons in the bottom right.
 
